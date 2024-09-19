@@ -7,3 +7,11 @@
 - MLOPs Tool: https://www.evidentlyai.com/
 - MongoDB: https://account.mongodb.com/account/login
 - Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
+
+# Workflow
+1.constants
+2.entity
+3.componants
+4.pipeline
+5.Mainfile
